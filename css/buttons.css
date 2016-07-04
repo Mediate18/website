@@ -1,0 +1,96 @@
+.btn-xs.btn-stripe, .btn-xs.btn-stripe:hover {
+	font-size: x-small;
+	font-weight: 500;
+    background-position: 0 2px;
+    background-size: 100% 2px;
+    padding: 2px 5px 1px 5px;
+}
+
+.btn-stripe, .btn-stripe:hover {
+	border-color: #555;
+	color: #555;
+	background: white;
+	background-repeat: no-repeat;
+    background-position: 0 5px;
+    background-size: 100% 2px;
+    padding: 8px 12px 4px 12px;
+}
+
+.btn-stripe:hover {
+	color: white;
+}
+
+.btn-default.btn-stripe {
+	background-image: -webkit-linear-gradient(left, darkslategray, lightslategray, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, darkslategray, lightslategray, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, darkslategray, lightslategray, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, darkslategray, lightslategray, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-default.btn-stripe:hover {
+	background-color: darkslategray;
+	background-image: -webkit-linear-gradient(left, white, lightslategray, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, white, lightslategray, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, white, lightslategray, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, white, lightslategray, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-primary.btn-stripe {
+	background-image: -webkit-linear-gradient(left, darkslateblue, mediumslateblue, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, darkslateblue, mediumslateblue, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, darkslateblue, mediumslateblue, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, darkslateblue, mediumslateblue, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-primary.btn-stripe:hover {
+	background-color: darkslateblue;
+	background-image: -webkit-linear-gradient(left, white, mediumslateblue, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, white, mediumslateblue, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, white, mediumslateblue, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, white, mediumslateblue, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-success.btn-stripe {
+	background-image: -webkit-linear-gradient(left, limegreen, lime, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, limegreen, lime, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, limegreen, lime, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, limegreen, lime, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-success.btn-stripe:hover {
+	background-color: limegreen;
+	background-image: -webkit-linear-gradient(left, white, lime, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, white, lime, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, white, lime, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, white, lime, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-info.btn-stripe {
+	background-image: -webkit-linear-gradient(left, darkcyan, mediumturquoise, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, darkcyan, mediumturquoise, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, darkcyan, mediumturquoise, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, darkcyan, mediumturquoise, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-info.btn-stripe:hover {
+	background-color: darkcyan;
+	background-image: -webkit-linear-gradient(left, white, mediumturquoise, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, white, mediumturquoise, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, white, mediumturquoise, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, white, mediumturquoise, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-danger.btn-stripe {
+	background-image: -webkit-linear-gradient(left, maroon, crimson, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, maroon, crimson, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, maroon, crimson, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, maroon, crimson, rgba(255,0,0,0)); /*Standard*/
+}
+
+.btn-danger.btn-stripe:hover {
+	background-color: maroon;
+	background-image: -webkit-linear-gradient(left, white, crimson, rgba(255,0,0,0)); /*Safari 5.1-6*/
+	background-image: -o-linear-gradient(right, white, crimson, rgba(255,0,0,0)); /*Opera 11.1-12*/
+	background-image: -moz-linear-gradient(right, white, crimson, rgba(255,0,0,0)); /*Fx 3.6-15*/
+	background-image: linear-gradient(to right, white, crimson, rgba(255,0,0,0)); /*Standard*/
+}
