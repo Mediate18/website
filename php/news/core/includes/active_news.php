@@ -126,7 +126,7 @@ foreach ($entries as $entry)
 // No Entries
 if (($_show_rows = count($echo)) == 0) 
 {
-    echo i18n('No entries to show');
+    echo '<h4>'.i18n('No entries to show').'</h4>';
 }
 
 // Re-Request this parameters for news listing

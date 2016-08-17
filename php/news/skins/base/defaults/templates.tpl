@@ -3,14 +3,12 @@
  <div style="width: 100%; margin-bottom:30px;">     
      <div>
         <div style="word-wrap:break-word; width:300px; float:left;"><strong>[link]{title}[/link]</strong></div>
-        <div style="text-align:right;">[print]printable version[/print]</div>      
      </div>
      <div style="clear:both;"></div>
      <div style="text-align:justify; padding:3px; margin-top:3px; margin-bottom:5px; border-top:1px solid #D3D3D3;">{short-story}
          <div style="margin-top:10px;">[full-link target=_blank]Read more... [/full-link]</div>
      </div>
      <div style="margin: 0 0 8px 0;">{tagline}</div>
-     <div style="float: right;">[com-link]Count of comments: {comments-num} [/com-link]</div>
      <div>{avatar}<em>Posted on {date} by {author}</em></div>
      <div>{fb-comments}</div>
      <div>
@@ -23,7 +21,6 @@
  <div style="width: 100%; margin-bottom:15px;">
      <div><strong>{title}</strong></div>
      <div style="text-align:justify; padding:3px; margin-top:3px; margin-bottom:5px; border-top:1px solid #D3D3D3;">{full-story}</div>
-     <div style="float: right;">Count of comments: {comments-num}</div>
      <div>{avatar}<em>Posted on {date} by {author}</em></div>
      <div>{fb-comments}</div> 
      <div>
