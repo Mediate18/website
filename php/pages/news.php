@@ -6,8 +6,12 @@
 </div>
 <div class="col-xs-12 page-content">
 	<h1 class="visible-xs">News</h1>
-	<h3>Upcoming events</h3>
-	<p>MEDIATE team members will be presenting the project at the following conferences:
+	<?php
+		include("php/news/show_news.php");
+		include("php/news/show_archives.php");
+	?>
+	<h3>Past events</h3>
+	<p>MEDIATE team members have presented the project at the following conferences:
 		<ul class="list-unstyled">
 			<li><b>12-13 July 2016:</b> <a href="http://www.westernsydney.edu.au/humanities_communication_arts/hca/blog_and_news/george_rude_seminar_2016/digitizing_enlightenment_symposium" target="_blank">Digitizing Enlightenment Symposium</a>, Western Sydney University</li>
 			<li><b>13-16 July 2016:</b> George Rud&eacute; seminar, Western Sydney University</li>
