@@ -7,6 +7,7 @@
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1">
 					<div class="jumbotron">
+						<img src="img/erc_funded.png" class="stamp" />
 						<h1 class="text-center" id="main-title">MEDIATE</h1>
 						<hr/>
 						<h2 class="text-center" id="sub-title">Finding the real bestsellers of the 18th century</h2>
