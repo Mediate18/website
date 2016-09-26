@@ -12,7 +12,7 @@
 			<li>Mapping the field: library auction catalogues, books and their circulation (<a href="?page=team#blom">Blom</a>)</li>
 			<li>Readers: Library owners, reception networks</li>
 			<li>Authors: Two biographical case studies</li>
-			<li>Texts: Sampling middlebrow works</li>
+			<li>Texts: Sampling religious works</li>
 			<li>Synthesis: Toward a new history of &quot;the&quot; Enlightenment (<a href="?page=team#montoya">Montoya</a>)</li>
 		</ol>
 	</p>

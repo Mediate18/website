@@ -12,6 +12,7 @@
 	<br/>
 	<h3>Links to related projects:</h3>
 	<ul>
+		<li><a href="http://primarysources.brillonline.com/browse/book-sales-catalogues-online" target="_blank">Brill Book Sales Catalogues Online </a></li>
 		<li><a href="http://fbtee.uws.edu.au/main/" target="_blank">FBTEE: The French Book Trade in Enlightenment Europe</a></li>
 		<li><a href="http://fbtee.uws.edu.au/mpce/" target="_blank">Mapping Print, Charting Enlightenment</a></li>
 	</ul>

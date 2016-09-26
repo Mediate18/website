@@ -43,6 +43,7 @@ a.navbar-img > img.mini-logo {
 .jumbotron {
 	background: 0;
 	position: relative;
+	padding-bottom: 0px;
 }
 
 .jumbotron > img.stamp {

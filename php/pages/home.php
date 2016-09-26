@@ -2,14 +2,14 @@
 	<img src="img/vrouw.jpg" />
 	<span class="banner visible-sm visible-md visible-lg">
 		<h3>Middlebrow Enlightenment</h3>
-		<h4>Disseminating Ideas, Authors and Texts in 18th-century Europe</h4>
+		<h4>Disseminating Ideas, Authors and Texts</h4>
 	</span>
 </div>
 <div class="col-xs-12 page-content">
 	<h3 class="visible-xs">Middlebrow Enlightenment</h3>
-	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts in 18th century Europe</h4>
+	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts</h4>
 	<p>
-		MEDIATE is an ERC-funded digital humanities project that seeks to study <b>the circulation of books and ideas</b> in eighteenth-century Europe by drawing on a unique database of eighteenth-century library auction catalogues.
+		MEDIATE is an ERC-funded digital humanities project, based at Radboud University (The Netherlands), that seeks to study <b>the circulation of books and ideas</b> in eighteenth-century Europe by drawing on a unique database of eighteenth-century library auction catalogues.
 	</p>
 	<p>
 		Scholars of intellectual history have long focused on a small number of canonical authors and conceptual frameworks in studying societal change during the Enlightenment. Historians of the book have, for their part, tended to privilege radical, subversive or forbidden texts. Yet ever since Daniel Mornet launched the history of the book approach a century ago, historians have recognized that it was authors who were not radical or subversive who produced the best-selling texts of the 18th century. This project aims to <b>push Enlightenment studies in a new direction</b> by moving beyond the present corpus of texts and models that dominate the field, and propose a new conceptual framework that takes as its starting-point the heuristic concept of <b>middlebrow culture</b>.

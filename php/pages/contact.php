@@ -31,7 +31,7 @@
 			<div>
 				<h2>Prof. dr. Alicia C. Montoya</h2>
 				<p>Alicia Montoya is Principal Investigator of MEDIATE and Professor of French Literature and Culture at Radboud University, The Netherlands. 
-					She is the author of <i>Medievalist Enlightenment: From Charles Perrault to Jean-Jacques Rousseau</i> (Cambridge 2013), <i>Marie-Anne Barbier et la 
+					She is the author of <i><a href="http://repository.ubn.ru.nl/handle/2066/105830" target="_blank">Medievalist Enlightenment: From Charles Perrault to Jean-Jacques Rousseau</a></i> (Cambridge 2013), <i>Marie-Anne Barbier et la 
 					trag&eacute;die post-classique</i> (Paris 2007, winner of the Keetje Hodson Prize of the Royal Dutch Society for Arts and Sciences) and the co-editor 
 					of several volumes, including  <i>Lumi&egrave;res et histoire / Enlightenment and History</i> (Paris 2010). </p>
 				<p>Email: <a href="mailto:a.montoya@let.ru.nl">a.montoya@let.ru.nl</a></p>
