@@ -40,19 +40,6 @@
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-body">
-			<img class="visible-sm visible-md visible-lg" src="img/team/matje1.png" />
-			<div>
-				<h2>Dr. Matje van de Camp</h2>
-				<p>Matje van de Camp is the Postdoctoral Researcher in charge of the creation and disclosure of the MEDIATE database. She obtained a PhD from Tilburg University
-					in March 2016 for her thesis <i>A Link to the Past: Constructing Historical Social Networks from Unstructured Data</i>, and is the winner of the 2012 Leipzig eHumanties 
-					Innovation Award. Matje divides her time between MEDIATE and <a href="http://www.taalmonsters.nl" target="_blank">De Taalmonsters</a>, where she works as a consultant and 
-					developer of Natural Language Processing applications.</p>
-				<p>Email: <a href="mailto:m.vandecamp@let.ru.nl">m.vandecamp@let.ru.nl</a></p>
-			</div>
-		</div>
-	</div>
-	<div class="panel panel-default">
-		<div class="panel-body">
 			<img class="visible-sm visible-md visible-lg" src="img/team/helwi.jpg" />
 			<div>
 				<h2>Dr. Helwi Blom</h2>

@@ -2,12 +2,12 @@
 	<img src="img/vrouw.jpg" />
 	<span class="banner visible-sm visible-md visible-lg">
 		<h3>Middlebrow Enlightenment</h3>
-		<h4>Disseminating Ideas, Authors and Texts</h4>
+		<h4>Disseminating Ideas, Authors and Texts in Europe (1665-1820)</h4>
 	</span>
 </div>
 <div class="col-xs-12 page-content">
 	<h3 class="visible-xs">Middlebrow Enlightenment</h3>
-	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts</h4>
+	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts in Europe (1665-1820)</h4>
 	<p>
 		MEDIATE is an ERC-funded digital humanities project, based at Radboud University (The Netherlands), that seeks to study <b>the circulation of books and ideas</b> in eighteenth-century Europe by drawing on a unique database of eighteenth-century library auction catalogues.
 	</p>
