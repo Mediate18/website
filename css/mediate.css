@@ -90,7 +90,7 @@ a.navbar-img > img.mini-logo {
 	padding: 20px 0;
 }
 
-.tab-pane p {
+.tab-pane p, .tab-pane a, .tab-pane em {
 	text-align: justify;
     text-justify: inter-word;
     font-family: 'Lora', serif;
