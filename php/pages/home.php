@@ -2,12 +2,12 @@
 	<img src="img/vrouw.jpg" />
 	<span class="banner visible-sm visible-md visible-lg">
 		<h3>Middlebrow Enlightenment</h3>
-		<h4>Disseminating Ideas, Authors and Texts in Europe (1665-1820)</h4>
+		<h4>Disseminating Ideas, Authors and Texts in Europe (1665-1830)</h4>
 	</span>
 </div>
-<div class="col-xs-12 page-content">
+<div class="col-xs-8 page-content">
 	<h3 class="visible-xs">Middlebrow Enlightenment</h3>
-	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts in Europe (1665-1820)</h4>
+	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts in Europe (1665-1830)</h4>
 	<p><strong>Recipient of the 2017 Ammodo KNAW Award, Humanities (see <a target="blank" href="https://vimeo.com/214818886/777fdd360b">video</a>, in Dutch)</strong></p>
 	<p>
 		MEDIATE is an ERC-funded digital humanities project, based at Radboud University (The Netherlands), that seeks to study <b>the circulation of books and ideas</b> in eighteenth-century Europe by drawing on a unique database of 2000 - 3000 eighteenth-century private library auction catalogues.
@@ -30,4 +30,8 @@
 	<p>
 		A fuller description of the project's aims and conceptual framework can be found <a href="http://h-france.net/rude/vol7/montoya7/">here</a>.
 	</p>
+</div>
+<div class="col-xs-4">
+	<blockquote><p><strong>Twitter feed (<a href="https://twitter.com/mediate18c" target="_blank" rel="noopener" data-slimstat="5">@Mediate18C</a>)</strong></p></blockquote>
+	<a class="twitter-timeline" href="https://twitter.com/Mediate18c?ref_src=twsrc%5Etfw" data-height="1200" data-chrome="noheader transparent">Tweets by Mediate18c</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  	 
 </div>

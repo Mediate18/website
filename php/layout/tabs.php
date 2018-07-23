@@ -8,6 +8,9 @@
 	<li class="<? echo ($page === 'news' ? 'active' : '') ?>">
 		<a href="?page=news">NEWS</a>
 	</li>
+	<li class="">
+		<a href="http://bibliomediator.nl/">BLOG</a>
+	</li>
 	<li class="<? echo ($page === 'publications' ? 'active' : '') ?>">
 		<a href="?page=publications">PUBLICATIONS</a>
 	</li>

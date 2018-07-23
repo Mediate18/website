@@ -60,7 +60,7 @@
 			<div>
 				<a name="jason"></a>		
 				<h2>Dr. Jason Ensor</h2>
-				<p>Jason Ensor (Western Sydney University) oversees the technical development and database construction for MEDIATE. At Western Sydney, he is a Chief Investigator with Professor Simon Burrows on the '<a href="http://fbtee.uws.edu.au/mpce/">Mapping Print, Charting Enlightenment</a>' Australian Research Council Discovery Project. He publishes in the field of Australian Book History and on matters related to research impact and rethinking scholarship in the digital age. In 2016 he led an Australian National Data Service project on making better use of paper-based high value historical publishers collections through digital technologies. In 2015 he was Conference Director for 'Global Digital Humanities' and will convene SHARP 2018 in Sydney, Australia.</p>
+				<p>Jason Ensor (Western Sydney University) is an external advisor on the technical development and database construction for MEDIATE. At Western Sydney, he was Chief Investigator with Professor Simon Burrows on the'<a href="http://fbtee.uws.edu.au/mpce/">Mapping Print, Charting Enlightenment</a>' Australian Research Council Discovery Project. He publishes in the field of Australian Book History and on matters related to research impact and rethinking scholarship in the digital age. In 2015 he was Conference Director for 'Global Digital Humanities' and in 2018 he convened the SHARP congress in Sydney, Australia.</p>
 				<p>Email: <a href="mailto:J.Ensor@westernsysdney.edu.au">J.Ensor@westernsydney.edu.au</a></p>
 			</div>
 		</div>
@@ -96,7 +96,7 @@
 			<div>
 				<a name="joanna"></a>			
 				<h2>Joanna Rozendaal, MA</h2>
-				<p>Joanna Rozendaal participates in the MEDIATE project as project assistant. She will be coordinating the transcription project, which includes harvesting, transcribing, and digitizing eighteenth century private library auction catalogues. In addition, she will set up a crowdsourcing project, and ultimately implement these harvested data in the MEDIATE database. Joanna holds an MA in Arts and Culture, specialising in Dutch Golden Age Studies, with a particular interest in Book History.</p>
+				<p>Joanna Rozendaal participates in the MEDIATE project as project assistant. She will be coordinating the transcription project, which includes harvesting, transcribing, and digitizing eighteenth century private library auction catalogues. Joanna holds an MA in Arts and Culture, specialising in Dutch Golden Age Studies, with a particular interest in Book History.</p>
 				<p>Email: <a href="mailto:j.rozendaal@let.ru.nl">j.rozendaal@let.ru.nl</a></p>
 			</div>
 		</div>
@@ -109,6 +109,31 @@
 				<a name="anna"></a>			
 				<h2>Anna E. de Wilde, MA</h2>
 				<p>Anna de Wilde participates in the MEDIATE project as a PhD student, focusing on Hebrew and Jewish books in Dutch auction catalogues. She studied History and Jewish Studies at the University of Amsterdam and the Hebrew University of Jerusalem. She specialized in the book culture of the Sephardic community in early modern Amsterdam. Before joining the MEDIATE team Anna worked as a researcher at Ets Haim - Livraria Montezinos, the world's oldest functioning Jewish library.</p>
+				<p>Email: <a href="mailto:A.deWilde@let.ru.nl">A.deWilde@let.ru.nl</a></p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<img class="visible-sm visible-md visible-lg" src="img/team/EvChayes_June_2018.jpg" />
+			<div>
+				<a name="echayes"></a>			
+				<h2>Dr. Evelien Chayes</h2>
+				<p>Evelien Chayes earned a PhD in Humanities from the University of Amsterdam. She has authored and co-edited books and published articles on early modern networks in the Veneto, intellectual exchanges in the Venetian ghetto, private libraries and the circulation of (censored) books between France, Italy and Cyprus. At the CNRS Institut de Recherche et d'Histoire des Textes in Paris she worked on the reconstruction of Michel de Montaigne's network in the Parliament of Bordeaux. She is the editorial coordinator and editorial board member of the <i>Mediterranean Nexus 1100-1700</i> book series, published by Brepols. As a postdoctoral researcher in the ERC project she focuses on Italian private libraries. </p>
+				<p>Email: <a href="mailto:E.Chayes@let.ru.nl">E.Chayes@let.ru.nl</a></p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<img class="visible-sm visible-md visible-lg" src="img/team/micha.jpg" />
+			<div>
+				<a name="micha"></a>			
+				<h2>Micha Hulsbosch, MA</h2>
+				<p>Micha Hulsbosch has a background in Language and Speech Technology. He is part of the <a href="https://www.ru.nl/humanitieslab/technical-support-group/general/">Technical Support Group Humanities Lab</a> and develops software for the Humanities research community, in particular Language research. In the MEDIATE project Micha is mainly tasked with the development of the <a href="?page=database">MEDIATE database</a> webapplication.</p>
+				<p>Email: <a href="mailto:m.hulsbosch@let.ru.nl">M.Hulsbosch@let.ru.nl</a></p>
 			</div>
 		</div>
 	</div>
