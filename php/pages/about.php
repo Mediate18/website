@@ -8,12 +8,24 @@
 	<h1 class="visible-xs">About the project</h1>
 	<p>The MEDIATE project is organized in six interrelated subprojects:
 		<ol>
-			<li>MEDIATE database construction</li>
-			<li>Mapping the field: library auction catalogues, books and their circulation (<a href="?page=team#blom">Blom</a>)</li>
-			<li>Readers: Library owners, reception networks</li>
-			<li>Still to be determined</li>
-			<li>Texts: Sampling religious works</li>
-			<li>Synthesis: Toward a new history of &quot;the&quot; Enlightenment (<a href="?page=team#montoya">Montoya</a>)</li>
+			<li>MEDIATE database construction (<a href="?page=contact#jason">Ensor</a>)</li>
+			<li>French printed private library catalogues and readers (<a href="?page=contact#helwi">Blom</a>)</li>
+			<li>Dutch printed private library catalogues and readers (<a href="?page=contact#rindert">Jagersma</a>)</li>
+			<li>English printed private library catalogues and readers (<a href="?page=contact#juliette">Reboul</a>)</li>
+			<li>Jewish books in private library catalogues (<a href="?page=contact#anna">De Wilde</a>)</li>
+			<li>Synthesis: Toward a new history of "the" Enlightenment (<a href="?page=contact#alicia">Montoya</a>)</li>
 		</ol>
 	</p>
+
+<h2>Advisory board</h2>
+
+<ul>
+<li>Simon Burrows (Western Sydney University)</li>
+<li>Marieke van Delft (Royal Library KB, The Hague)</li>
+<li>Raphaele Mouren (Warburg Institute / Ecole Nationale Sup&eacute;rieure des Sciences de l'information et des Biblioth&egrave;ques)</li>
+<li>Andrew Pettegree (University of St Andrews)</li>
+<li>Nicoline van der Sijs (KNAW Meertens Institute / Radboud University)</li>
+<li>Mark Towsey (University of Liverpool)</li>
+</ul>
+
 </div>
