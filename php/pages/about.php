@@ -8,11 +8,12 @@
 	<h1 class="visible-xs">About the project</h1>
 	<p>The MEDIATE project is organized in six interrelated subprojects:
 		<ol>
-			<li>MEDIATE database construction (<a href="?page=contact#jason">Ensor</a>)</li>
-			<li>French printed private library catalogues and readers (<a href="?page=contact#helwi">Blom</a>)</li>
-			<li>Dutch printed private library catalogues and readers (<a href="?page=contact#rindert">Jagersma</a>)</li>
-			<li>English printed private library catalogues and readers (<a href="?page=contact#juliette">Reboul</a>)</li>
-			<li>Jewish books in private library catalogues (<a href="?page=contact#anna">De Wilde</a>)</li>
+			<li>MEDIATE database construction (<a href="?page=contact#micha">Hulsbosch</a>)</li>
+			<li>French private library auctions and early Enlightenment networks (<a href="?page=contact#helwi">Blom</a>)</li>
+			<li>Dutch printed private library catalogues and auction practices (<a href="?page=contact#rindert">Jagersma</a>)</li>
+			<li>English printed private library catalogues in a transnational context (<a href="?page=contact#juliette">Reboul</a>)</li>
+			<li>Italian (Jewish) private library catalogues and cultural mediators (<a href="?page=contact#echayes">Chayes</a>)</li>
+			<li>Jewish books and Jewish-owned private libraries in the Dutch Republic (<a href="?page=contact#anna">De Wilde</a>)</li>
 			<li>Synthesis: Toward a new history of "the" Enlightenment (<a href="?page=contact#alicia">Montoya</a>)</li>
 		</ol>
 	</p>

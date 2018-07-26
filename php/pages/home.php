@@ -32,6 +32,6 @@
 	</p>
 </div>
 <div class="col-xs-4">
-	<blockquote><p><strong>Twitter feed (<a href="https://twitter.com/mediate18c" target="_blank" rel="noopener" data-slimstat="5">@Mediate18C</a>)</strong></p></blockquote>
+	<p><strong>Twitter feed (<a href="https://twitter.com/mediate18c" target="_blank" rel="noopener" data-slimstat="5">@Mediate18C</a>)</strong></p>
 	<a class="twitter-timeline" href="https://twitter.com/Mediate18c?ref_src=twsrc%5Etfw" data-height="1200" data-chrome="noheader transparent">Tweets by Mediate18c</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  	 
 </div>

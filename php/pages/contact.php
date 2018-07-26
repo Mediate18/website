@@ -31,10 +31,8 @@
 			<div>
 				<a name="alicia"></a>
 				<h2>Prof. dr. Alicia C. Montoya</h2>
-				<p>Alicia Montoya is Principal Investigator of MEDIATE and Professor of French Literature and Culture at Radboud University, The Netherlands. 
-					She is the author of <i><a href="http://repository.ubn.ru.nl/handle/2066/105830" target="_blank">Medievalist Enlightenment: From Charles Perrault to Jean-Jacques Rousseau</a></i> (Cambridge 2013), <i>Marie-Anne Barbier et la 
-					trag&eacute;die post-classique</i> (Paris 2007, winner of the Keetje Hodson Prize of the Royal Dutch Society for Arts and Sciences) and the co-editor 
-					of several volumes, including  <i>Lumi&egrave;res et histoire / Enlightenment and History</i> (Paris 2010). </p>
+						Alicia Montoya is Principal Investigator of MEDIATE and Professor of French Literature and Culture at Radboud University, The Netherlands. She is the author of <i><a href="http://repository.ubn.ru.nl/handle/2066/105830" target="_blank">Medievalist Enlightenment: From Charles Perrault to Jean-Jacques Rousseau</a></i> (Cambridge 2013), <i>Marie-Anne Barbier et la trag&eacute;die post-classique</i> (Paris 2007, winner of the Keetje Hodson Prize of the Royal Dutch Society for Arts and Sciences) and the co-editor of several volumes, including <i>Early Modern Medievalisms: The Interplay between Scholarly Reflection and Artistic Production</i> (Leiden, 2010), <i>Women Writing Back / Writing Back Women: Transnational Perspectives from the Late Middle Ages to the Dawn of the Modern Era</i> (Leiden, 2010) and <i>Lumi&egrave;res et histoire / Enlightenment and History</i> (Paris 2010). She is an advisory editor for <i>Book History</i> and for Brill's Library of the Written Word series.
+					</p>
 				<p>Email: <a href="mailto:a.montoya@let.ru.nl">a.montoya@let.ru.nl</a></p>
 			</div>
 		</div>
@@ -53,15 +51,17 @@
 			</div>
 		</div>
 	</div>
-
+	
 	<div class="panel panel-default">
 		<div class="panel-body">
-			<img class="visible-sm visible-md visible-lg" src="img/team/jason.jpg" />
+			<img class="visible-sm visible-md visible-lg" src="img/team/EvChayes_June_2018.jpg" />
 			<div>
-				<a name="jason"></a>		
-				<h2>Dr. Jason Ensor</h2>
-				<p>Jason Ensor (Western Sydney University) is an external advisor on the technical development and database construction for MEDIATE. At Western Sydney, he was Chief Investigator with Professor Simon Burrows on the'<a href="http://fbtee.uws.edu.au/mpce/">Mapping Print, Charting Enlightenment</a>' Australian Research Council Discovery Project. He publishes in the field of Australian Book History and on matters related to research impact and rethinking scholarship in the digital age. In 2015 he was Conference Director for 'Global Digital Humanities' and in 2018 he convened the SHARP congress in Sydney, Australia.</p>
-				<p>Email: <a href="mailto:J.Ensor@westernsysdney.edu.au">J.Ensor@westernsydney.edu.au</a></p>
+				<a name="echayes"></a>			
+				<h2>Dr. Evelien Chayes</h2>
+				<p>
+					Evelien Chayes (PhD University of Amsterdam) has authored and co-edited books and published articles on early modern networks in the Veneto, intellectual exchanges in the Venetian ghetto, private libraries and the circulation of (censored) books between France, Italy and Cyprus. At the CNRS Institut de Recherche et d'Histoire des Textes in Paris she worked on the reconstruction of Michel de Montaigne's network in the Parliament of Bordeaux. She is an editorial board member of the <i>Mediterranean Nexus 1100-1700</i> book series, published by Brepols. As a postdoctoral researcher in the ERC project she focuses on Italian private libraries. 
+				</p>
+				<p>Email: <a href="mailto:E.Chayes@let.ru.nl">E.Chayes@let.ru.nl</a></p>
 			</div>
 		</div>
 	</div>
@@ -92,6 +92,32 @@
 
 	<div class="panel panel-default">
 		<div class="panel-body">
+			<img class="visible-sm visible-md visible-lg" src="img/team/anna.jpg" />
+			<div>
+				<a name="anna"></a>			
+				<h2>Anna E. de Wilde, MA</h2>
+				<p>Anna de Wilde participates in the MEDIATE project as a PhD student, focusing on Hebrew and Jewish books in Dutch auction catalogues. She studied History and Jewish Studies at the University of Amsterdam and the Hebrew University of Jerusalem. She specialized in the book culture of the Sephardic community in early modern Amsterdam. Before joining the MEDIATE team Anna worked as a researcher at Ets Haim - Livraria Montezinos, the world's oldest functioning Jewish library.</p>
+				<p>Email: <a href="mailto:A.deWilde@let.ru.nl">A.deWilde@let.ru.nl</a></p>
+			</div>
+		</div>
+	</div>
+	
+	<h2>Technical development and project support</h2>
+	
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<img class="visible-sm visible-md visible-lg" src="img/team/micha.jpg" />
+			<div>
+				<a name="micha"></a>			
+				<h2>Micha Hulsbosch, MA</h2>
+				<p>Micha Hulsbosch has a background in Language and Speech Technology. He is part of the <a href="https://www.ru.nl/humanitieslab/technical-support-group/general/">Technical Support Group Humanities Lab</a> and develops software for the Humanities research community, in particular Language research. In the MEDIATE project Micha is mainly tasked with the development of the <a href="?page=database">MEDIATE database</a> webapplication.</p>
+				<p>Email: <a href="mailto:m.hulsbosch@let.ru.nl">M.Hulsbosch@let.ru.nl</a></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="panel panel-default">
+		<div class="panel-body">
 			<img class="visible-sm visible-md visible-lg" src="img/team/joanna.jpg" />
 			<div>
 				<a name="joanna"></a>			
@@ -104,36 +130,12 @@
 
 	<div class="panel panel-default">
 		<div class="panel-body">
-			<img class="visible-sm visible-md visible-lg" src="img/team/anna.jpg" />
+			<img class="visible-sm visible-md visible-lg" src="img/team/jason.jpg" />
 			<div>
-				<a name="anna"></a>			
-				<h2>Anna E. de Wilde, MA</h2>
-				<p>Anna de Wilde participates in the MEDIATE project as a PhD student, focusing on Hebrew and Jewish books in Dutch auction catalogues. She studied History and Jewish Studies at the University of Amsterdam and the Hebrew University of Jerusalem. She specialized in the book culture of the Sephardic community in early modern Amsterdam. Before joining the MEDIATE team Anna worked as a researcher at Ets Haim - Livraria Montezinos, the world's oldest functioning Jewish library.</p>
-				<p>Email: <a href="mailto:A.deWilde@let.ru.nl">A.deWilde@let.ru.nl</a></p>
-			</div>
-		</div>
-	</div>
-	
-	<div class="panel panel-default">
-		<div class="panel-body">
-			<img class="visible-sm visible-md visible-lg" src="img/team/EvChayes_June_2018.jpg" />
-			<div>
-				<a name="echayes"></a>			
-				<h2>Dr. Evelien Chayes</h2>
-				<p>Evelien Chayes earned a PhD in Humanities from the University of Amsterdam. She has authored and co-edited books and published articles on early modern networks in the Veneto, intellectual exchanges in the Venetian ghetto, private libraries and the circulation of (censored) books between France, Italy and Cyprus. At the CNRS Institut de Recherche et d'Histoire des Textes in Paris she worked on the reconstruction of Michel de Montaigne's network in the Parliament of Bordeaux. She is the editorial coordinator and editorial board member of the <i>Mediterranean Nexus 1100-1700</i> book series, published by Brepols. As a postdoctoral researcher in the ERC project she focuses on Italian private libraries. </p>
-				<p>Email: <a href="mailto:E.Chayes@let.ru.nl">E.Chayes@let.ru.nl</a></p>
-			</div>
-		</div>
-	</div>
-	
-	<div class="panel panel-default">
-		<div class="panel-body">
-			<img class="visible-sm visible-md visible-lg" src="img/team/micha.jpg" />
-			<div>
-				<a name="micha"></a>			
-				<h2>Micha Hulsbosch, MA</h2>
-				<p>Micha Hulsbosch has a background in Language and Speech Technology. He is part of the <a href="https://www.ru.nl/humanitieslab/technical-support-group/general/">Technical Support Group Humanities Lab</a> and develops software for the Humanities research community, in particular Language research. In the MEDIATE project Micha is mainly tasked with the development of the <a href="?page=database">MEDIATE database</a> webapplication.</p>
-				<p>Email: <a href="mailto:m.hulsbosch@let.ru.nl">M.Hulsbosch@let.ru.nl</a></p>
+				<a name="jason"></a>		
+				<h2>Dr. Jason Ensor</h2>
+				<p>Jason Ensor (Western Sydney University) is an external advisor on the technical development and database construction for MEDIATE. At Western Sydney, he was Chief Investigator with Professor Simon Burrows on the '<a href="http://fbtee.uws.edu.au/mpce/">Mapping Print, Charting Enlightenment</a>' Australian Research Council Discovery Project. He publishes in the field of Australian Book History and on matters related to research impact and rethinking scholarship in the digital age. In 2015 he was Conference Director for 'Global Digital Humanities' and in 2018 he convened the SHARP congress in Sydney, Australia.</p>
+				<p>Email: <a href="mailto:J.Ensor@westernsysdney.edu.au">J.Ensor@westernsydney.edu.au</a></p>
 			</div>
 		</div>
 	</div>
