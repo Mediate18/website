@@ -1,7 +1,7 @@
 <div class="col-xs-12 display-lg">
 	<img src="img/vrouw.jpg" />
 	<span class="banner visible-sm visible-md visible-lg">
-		<h3>Middlebrow Enlightenment</h3>
+		<h3>Measuring Enlightenment</h3>
 		<h4>Disseminating Ideas, Authors and Texts in Europe (1665-1830)</h4>
 	</span>
 </div>
