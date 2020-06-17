@@ -9,10 +9,8 @@
 	<h3 class="visible-xs">Measuring Enlightenment</h3>
 	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts in Europe (1665-1830)</h4>
 	<p>
-		<strong>Recipient of the 2017 Ammodo KNAW Award, Humanities</strong>
+		<strong><a href="https://vimeo.com/214818886">Recipient of the 2017 Ammodo KNAW Award, Humanities</a></strong>
 	</p>
-	<iframe src="https://player.vimeo.com/video/214818886" width="640" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-	<p><a href="https://vimeo.com/214818886">Ammodo KNAW Award - Alicia Montoya</a> from <a href="https://vimeo.com/ammodo">Ammodo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 	<p>
 		MEDIATE is an ERC-funded digital humanities project, based at Radboud University (The Netherlands), that seeks to study <b>the circulation of books and ideas</b> in eighteenth-century Europe by drawing on a unique database of 2000 - 3000 eighteenth-century private library auction catalogues.
 	</p>

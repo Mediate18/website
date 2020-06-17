@@ -14,6 +14,30 @@
 	<p>MEDIATE team members have presented the project at the following conferences:
 		<ul class="list-unstyled">
 			<li>
+				<b>September 2019:</b>
+				<a href="https://www.nb.no/content/uploads/2019/09/LitCit_FinalProgramme23.09.19.pdf">Literary Citizenship conference</a>, National Library of Norway.
+			</li>
+			<li>
+				<b>July 2019:</b>
+				<a href="https://www.bsecs.org.uk/isecs/en/programme/">International Society for Eighteenth-Century Studies (ISECS)</a>, Edinburgh.
+			</li>
+			<li>
+				<b>June 2019:</b>
+				<a href="https://arts.st-andrews.ac.uk/ustc2-backend/public/storage/conference/provisional_programme_april_2019.pdf">Crisis or Enlightenment? Developments in the Book Trade, 1650-1750 conference</a>, University of St Andrews.
+			</li>
+			<li>
+				<b>June 2018:</b>
+				Book Trade Catalogues in Early Modern Europe workshop, University of St Andrews.
+			</li>
+			<li>
+				<b>October 2018:</b>
+				<a href="https://www.uantwerpen.be/en/conferences/economic-history-book/">The Economic History of the Book in the Early Modern Period conference</a>, Antwerp.
+			</li>
+			<li>
+				<b>March 2018:</b>
+				<a href="https://www.rsa.org/general/custom.asp?page=2018NOLA">The Renaissance Society of America (RSA) congress</a>, New Orleans, US.
+			</li>
+			<li>
 				<b>July 19-20, 2018:</b>
 				<a href="https://sites.google.com/view/digitizingenlightenment3/home">Digitizing Enlightenment III : Prosopography and Networks</a>, Oxford University. 
 			</li>
