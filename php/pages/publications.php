@@ -16,7 +16,7 @@
 		H. Blom, <a href="docs/Blom_Helwi.pdf">'Philosophie ou Commerce? L’évolution des systèmes de classement bibliographique dans les catalogues de bibliothèques privées publiés en France au XVIII<sup>e</sup> siècle'</a>, in Frédéric Barbier, István Monok and Andrea Seidler (eds), <i>Les bibliothèques et l’économie des connaissances/Bibliotheken und die Ökonomie des Wissens 1450–1850.</i> Colloque international – Internationale Tagung, 9–13 avril/April 2019 Sárospatak (Hongrie/Ungarn), Budapest, Magyar Tudományos Akadémia Könyvtár és Információs Központ, 2020, pp. 203-234.
 	</p>
 	<p>
-		Anna E. de Wilde, <a href="docs/Zutot-How_to_Understand_al_yede_Title_Pages_of_Hebrew_Private_Library_Catalogues_Printed_in_the_Dutch_Repu-1-.pdf">'How to Understand <i>ʿal yede</i>? Title Pages of Hebrew Private Library Catalogues Printed in the Dutch Republic during the Long 18th Century'</a>, Zutot 17.1 (2019), 74-82.
+		A. E. de Wilde, <a href="docs/Zutot-How_to_Understand_al_yede_Title_Pages_of_Hebrew_Private_Library_Catalogues_Printed_in_the_Dutch_Repu-1-.pdf">'How to Understand <i>ʿal yede</i>? Title Pages of Hebrew Private Library Catalogues Printed in the Dutch Republic during the Long 18th Century'</a>, Zutot 17.1 (2019), 74-82.
 	</p>
 	<p>
 		A.C. Montoya, <a href="docs/Jaarboek_Nederlandse_boekgeschiedenis.pdf" target="_blank">'The MEDIATE project'</a> <i>Jaarboek voor Nederlandse Boekgeschiedenis / Yearbook for Dutch Book History</i> 25 (2018), 229 - 232.

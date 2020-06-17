@@ -5,8 +5,8 @@
 	<li class="<?php echo ($page === 'about' ? 'active' : '') ?>">
 		<a href="?page=about">ABOUT</a>
 	</li>
-	<li class="<?php echo ($page === 'news' ? 'active' : '') ?>">
-		<a href="?page=news">NEWS</a>
+	<li class="<?php echo ($page === 'conferences' ? 'active' : '') ?>">
+		<a href="?page=conferences">CONFERENCES</a>
 	</li>
 	<li class="">
 		<a href="http://bibliomediator.nl/">BLOG</a>
