@@ -7,6 +7,21 @@
 <div class="col-xs-12 page-content">
 	<h1 class="visible-xs">Publications</h1>
 	<p>
+		A.C. Montoya, <a href="docs/Montoya_2020-Digitizing_Enlightenment.pdf">“Shifting Perspectives and Moving Targets: From Conceptual Perspectives to Bits of Data in the First Year of the MEDIATE project”</a>, in S. Burrows and G. Roe (eds.), <i>Digitizing Enlightenment: Digital Humanities and the Transformation of Eighteenth-Century Studies</i>, Oxford University Studies in the Enlightenment, 2020, 195 – 218.
+	</p>
+	<p>
+		A.C. Montoya and R. Jagersma, <a href="docs/Montoya_and_Jagersma_2020.pdf">“Les livres français dans les catalogues de vente aux enchères des bibliothèques privées (Provinces-Unies, 1670 – 1750)”</a>, in Mathilde Bombart, Sylvain Cornic, Edwige Keller-Rahbé en Michèle Rosellini (eds.), <i>“A qui lira”: Littérature, livre et librairie en France au XVIIe siècle</i>, Tübingen, Narr Francke Attempo, 2020, 733 – 746. 
+	</p>
+	<p>
+		A.C. Montoya, <a href="https://www.boekenwereld.com/boekenwereld-36-2">“Pest, epidemieën en bibliotheken. Veilingcatalogi ten tijde van de Verlichting (1665 – 1830)”</a>, <i>De boekenwereld</i> 36, no. 2 (2020), 30 – 39.
+	</p>
+	<p>
+		H. Blom, “Boeken in ballingschap; de catalogus van de bibliotheek van de hugenotenpredikant Isaac Claude (1653-1695)”, <i>Jaarboek voor Nederlandse Boekgeschiedenis 27</i> (2020), 23-43.
+	</p>
+	<p>
+		J. Reboul, <a href="docs/Reboul_2020.pdf">"Counter-Revolutionary Transfers? Emigré Literature and the Subject of the French Emigration in British Private Libraries (1790s - 1830)"</a>, in L. Philip and J. Reboul (eds.), <i>French Emigrants in Revolutionised Europe: Connected Histories and Memories</i>, London, Palgrave Macmillan, 2019, 111 - 134.​
+	</p>
+	<p>
 		H. Blom, R. Jagersma and J. Reboul, ‘Printed Private Library Catalogues as a Source for the History of Reading’, in J. Rose and M. Hammond (eds.), <i>Edinburgh History of Reading</i> (Edinburgh, Edinburgh University Press, 2020), forthcoming.
 	</p>
 	<p>
