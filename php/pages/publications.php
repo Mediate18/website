@@ -7,6 +7,27 @@
 <div class="col-xs-12 page-content">
 	<h1 class="visible-xs">Publications</h1>
 	<p>
+		A.C. Montoya, <a href="https://muse.jhu.edu/article/802447/summary">“Enlightenment? What Enlightenment? Reflections on Half a Million Books (British, French and Dutch Private Libraries, 1665 – 1830)”</a>, <i>Eighteenth-Century Studies</i> 54, 2 (2021),  909 – 934. 
+	</p>
+	<p>
+		R. Jagersma, <a href="https://brill.com/view/book/edcoll/9789004422247/BP000013.xml">“Dutch Printed Library Sales Catalogues, 1599 – 1800: A Bibliometric Overview”</a>, in Arthur der Weduwen, Andrew Pettegree and Graeme Kemp (eds.), <i>Early Modern Book Trade Catalogues</i>, Leiden, Brill, 2021, 87 – 117.
+	</p>
+	<p>
+		A.E. de Wilde, <a href="https://brill.com/view/book/edcoll/9789004422247/BP000018.xml">“Sales Catalogues of Jewish-Owned Private Libraries in the Dutch Republic during the Long Eighteenth Century: A Preliminary Overview”</a>, in Arthur der Weduwen, Andrew Pettegree and Graeme Kemp (eds.), <i>Early Modern Book Trade Catalogues</i>, Leiden, Brill, 2021, 212 – 248.
+	</p>
+	<p>
+		H. Blom, <a href="https://brill.com/view/book/edcoll/9789004422247/BP000022.xml">“’Il sest vendu depuis peu une assez bonne bibliotheque’: The Republic of Letters and the Sale Catalogue of Pierre Briot (1679)”</a>, in Arthur der Weduwen, Andrew Pettegree and Graeme Kemp (eds.), <i>Early Modern Book Trade Catalogues</i>, Leiden, Brill, 2021, 361 – 395.
+	</p>
+	<p>
+		A.C. Montoya, <a href="https://brill.com/view/book/edcoll/9789004422247/BP000024.xml">“Building the <i>Bibliothèque choisie</i>, from Jean Le Clerc to Samuel Formey: Library Manuals, Review Journals and Auction Catalogues in the Long Eighteenth Century”</a>, in Arthur der Weduwen, Andrew Pettegree and Graeme Kemp (eds.), <i>Early Modern Book Trade Catalogues</i>, Leiden, Brill, 2021, 426 – 462.
+	</p>
+	<p>
+		A.C. Montoya, <a href="https://books.openedition.org/cths/15058">“Des catéchismes à Voltaire: le projet <i>MEDIATE</i> et le rôle des livres ‘moyens’ dans la transmission culturelle à l’époque des Lumières”</a>, in Arnaud Dhermy (ed.), <i>La transmission des savoirs à l’ère numérique</i>, Paris, Editions du Comité des travaux historiques et scientifiques, 2021, 58 – 71.
+	</p>
+	<p>
+		A.C. Montoya, “La dispersion du livre aquitain en Europe: Lecteurs et bibliothèques privées (1665 – 1830)”, <i>Revue française d’histoire du livre</i> 142 (2021), 79 – 104.
+	</p>
+	<p>
 		A.C. Montoya, <a href="docs/Montoya_2020-Digitizing_Enlightenment.pdf">“Shifting Perspectives and Moving Targets: From Conceptual Perspectives to Bits of Data in the First Year of the MEDIATE project”</a>, in S. Burrows and G. Roe (eds.), <i>Digitizing Enlightenment: Digital Humanities and the Transformation of Eighteenth-Century Studies</i>, Oxford University Studies in the Enlightenment, 2020, 195 – 218.
 	</p>
 	<p>

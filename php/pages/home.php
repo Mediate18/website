@@ -12,7 +12,7 @@
 		<strong><a href="https://vimeo.com/214818886">Recipient of the 2017 Ammodo KNAW Award, Humanities</a></strong>
 	</p>
 	<p>
-		MEDIATE is an ERC-funded digital humanities project, based at Radboud University (The Netherlands), that seeks to study <b>the circulation of books and ideas</b> in eighteenth-century Europe by drawing on a unique database of 2000 - 3000 eighteenth-century private library auction catalogues.
+		MEDIATE is an ERC-funded digital humanities project, based at Radboud University (The Netherlands), that seeks to study <b>the circulation of books and ideas</b> in eighteenth-century Europe by drawing on a unique database of several hundred eighteenth-century private library auction catalogues.
 	</p>
 	<p>
 		Scholars of intellectual history have long focused on a small number of canonical authors and conceptual frameworks in studying societal change during the Enlightenment. Historians of the book have, for their part, often privileged radical, subversive or forbidden texts. Yet book historians have long recognized that it was authors who were not radical or subversive who sometimes produced the best-selling texts of the 18th century. This project aims to move beyond the present corpus of texts and models that dominate the field, and propose a new model of the circulation of books in eighteenth-century Europe that focuses not primarily on individual works, but adopts a relational approach to the literary system in Europe.
