@@ -71,8 +71,8 @@
 			<img class="visible-sm visible-md visible-lg" src="img/team/rindert.jpg" />
 			<div>
 				<a name="rindert"></a>			
-				<h2>Rindert Jagersma, MA</h2>
-				<p>Rindert Jagersma is a book historian, specialized in the book trade of Dutch Republic in the seventeenth and eighteenth century. In the MEDIATE project, he focuses on Dutch auction catalogues and their owners. His PhD thesis (2017) is about the life and works of the Dutch pamphleteer Ericus Walten (1662-1697) and the importance of pamphleteers and booksellers in the dissemination of the early Enlightenment at the end of the seventeenth century in the Netherlands.</p>
+				<h2>Dr. Rindert Jagersma</h2>
+				<p>Rindert Jagersma (PhD, University of Amsterdam) is a book historian and cataloguer, specialised in the (quantitative approach of the) book trade of Dutch Republic around 1700. In the MEDIATE project, he focuses on Dutch auction catalogues and their owners. His publications concern book ownership and private book collections in the long eighteenth century; the life and works of the Dutch pamphleteer Ericus Walten (1662-1697) and the importance of pamphleteers and booksellers in the dissemination of the radical Enlightenment; and the identification of the hitherto unknown printers of the works of Benedictus de Spinoza (1632-1677).</p>
 				<p>Email: <a href="mailto:r.jagersma@let.ru.nl">r.jagersma@let.ru.nl</a></p>
 			</div>
 		</div>
