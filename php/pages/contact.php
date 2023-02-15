@@ -20,7 +20,7 @@
 						<li>The Netherlands</li>
 					</ul>
 				</p>
-				<p>Email: <a href="mailto:alicia.montoya@ru.nl">a.montoya@let.ru.nl</a></p>
+				<p>Email: <a href="mailto:alicia.montoya@ru.nl">alicia.montoya@ru.nl</a></p>
 			</div>
 		</div>
 	</div>
