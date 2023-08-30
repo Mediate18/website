@@ -8,7 +8,7 @@
 	<h1 class="visible-xs">Database</h1>
 	<br/>
 	<p>We are currently in the process of harvesting, transcribing and enriching data from our corpus of (sales) catalogues of eighteenth-century private libraries. This will form the backbone of two databases: the <strong>BIBLIO database</strong> (Bibliography of Individually-owned Book and Library Inventories Online, 1665 - 1830), containing basic bibliographic records for all extant private library (sales) catalogues in the Dutch Republic, France, and the British Isles, for the period 1665 - 1830; and the <strong>MEDIATE database</strong> (Measuring Enlightenment: Disseminating Ideas, Authors, and Texts in Europe, 1665 - 1830), containing fully searchable transcriptions and metadata on books and collectors extracted from an initial Sandbox corpus of 600 smaller private library (sales) catalogues. It is our aim to incrementally expand this initial Sandbox corpus after the database release in 2022.</p>
-	<p>The public version of the MEDIATE database Sandbox will be launched in the summer of 2022, and will be made available <a href="https://test.mediate-database.cls.ru.nl">here</a>. 
+	<p>The public version of the MEDIATE database Sandbox will be launched in the summer of 2022, and will be made available <a href="https://mediate-database.cls.ru.nl">here</a>. 
 	<br/>
 	<h3>Links to related projects:</h3>
 	<ul>
