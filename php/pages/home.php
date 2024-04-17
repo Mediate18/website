@@ -31,6 +31,24 @@
 	</p>
 </div>
 <div class="col-xs-4">
-	<p><strong>Twitter feed (<a href="https://twitter.com/mediate18c" target="_blank" rel="noopener" data-slimstat="5">@Mediate18C</a>)</strong></p>
-	<a class="twitter-timeline" href="https://twitter.com/Mediate18c?ref_src=twsrc%5Etfw" data-height="1200" data-chrome="noheader transparent">Tweets by Mediate18c</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  	 
+	<p style="text-align: start">
+		<strong>Ammodo award 2017, interview with project PI Alicia C. Montoya</strong>
+		<a href="https://vimeo.com/214818886">
+			<img src="https://i.vimeocdn.com/video/631388619-26334551634d59b53a9e7c450aae5ff6a96b337746b284054c33aa16d095b567-d_640" alt"Ammodo KNAW Award - Alicia Montoya" width="100%"/>
+		</a>
+	</p>
+	<hr/>
+	<p style="text-align: start">
+		<strong>Anna de Wilde, MEDIATE: Printed catalogues of private libraries, British Library 2017</strong>
+		<a href="https://www.youtube.com/watch?v=y1tk2GyXAQc">
+			<img src="https://i.ytimg.com/vi_webp/y1tk2GyXAQc/maxresdefault.webp" alt="" width="100%"/>
+		</a>
+	</p>
+	<hr/>
+	<p style="text-align: start">
+		<strong>Rindert Jagersma and Helwi Blom: Book sales catalogues and the second-hand book market (1700–1780), October 2018</strong>
+		<a href="https://www.youtube.com/watch?v=v8ltpHlM4DA">
+			<img src="https://i.ytimg.com/vi_webp/v8ltpHlM4DA/maxresdefault.webp" alt="" width="100%"/>
+		</a>
+	</p>
 </div>
