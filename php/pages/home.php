@@ -9,9 +9,6 @@
 	<h3 class="visible-xs">Measuring Enlightenment</h3>
 	<h4 class="visible-xs">Disseminating Ideas, Authors and Texts in Europe (1665-1830)</h4>
 	<p>
-		<strong><a href="https://vimeo.com/214818886">Recipient of the 2017 Ammodo KNAW Award, Humanities</a></strong>
-	</p>
-	<p>
 	    MEDIATE was an ERC-funded digital humanities project that was carried out at Radboud University (The Netherlands), between 2016 and 2021. The <a href="https://mediate-database.cls.ru.nl/about/">MEDIATE database</a>, which was one of its major outputs, was launched in July 2022, during the annual conference of the Society for the History of Authorship, Reading and Publishing (SHARP), that took place in Amsterdam. 
 	</p>
 	<p>
@@ -34,6 +31,8 @@
 	</p>
 </div>
 <div class="col-xs-4">
+	<h3>Video's</h3>
+	<hr/>
 	<p style="text-align: start">
 		<strong>Ammodo award 2017, interview with project PI Alicia C. Montoya</strong>
 		<a href="https://vimeo.com/214818886">
