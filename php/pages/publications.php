@@ -6,15 +6,27 @@
 </div>
 <div class="col-xs-12 page-content">
 	<h1 class="visible-xs">Publications</h1>
+
+	<h2>2024</h2>
+	<p>
+		Wilde, A. de, <i>Jewish Books at Auction. The circulation of Knowledge as Reflected in the Catalogues of Jewish Private Libraries in the Dutch Republic (1637 – 1832)</i>, PhD dissertation.
+	</p>
+	<p>
+		Montoya, A.C., <a href="docs/00206B3E01AC240412162735.pdf">‘The Diffusion of the Qur’an in Private Libraries, 1665 – 1830’</a>, in J. Raven (ed.), <i>Global Exchanges of Knowledge in the Long Eighteenth Century: Ideas and Materialities  c. 1650-1850</i>, Cambridge, Boydell, 2024, 269 – 292. 
+	</p>
+	<p>
+		Montoya, A.C., <a href="https://link.springer.com/chapter/10.1007/978-3-031-46939-8_12">“Women’s Libraries and ‘Women’s Books’, 1729–1830”</a>, in M. Bolufer, L. Guinot-Ferri and C. Blutrach (eds.), <i>Gender and Cultural Mediation in the Long Eighteenth Century</i>, Cham, Palgrave Macmillan, 2024, 289 – 314.
+	</p>
+
 	
 	<h2>2023</h2>
 	
 	<p>
-	    R. Jagersma, H. Blom, E. Chayes and A. Hansen (eds.). <i>Private libraries and their documentation, 1665-1830. Studying and interpreting sources</i>, Leiden, Brill, forthcoming in 2023.
+		R. Jagersma, H. Blom, E. Chayes and A. Hansen (eds.). <i><a href="https://brill.com/edcollbook-oa/title/64633">Private libraries and their documentation, 1665-1830. Studying and interpreting sources</a></i>, Leiden, Brill, 2023.
 	</p>
 	
 	<p>
-	    R. Jagersma, H. Blom and A. Hansen, ‘Goldmines or Minefields? Private Libraries and Their Documentation (1665-1830)’, in: R. Jagersma, H. Blom, E. Chayes and A. Hansen (eds.). <i>Private libraries and their documentation, 1665-1830. Studying and interpreting sources</i>, Leiden, Brill, forthcoming in 2023.
+		R. Jagersma, H. Blom and A. Hansen, <a href="https://brill.com/edcollchap-oa/book/9789004542969/BP000011.xml">‘Goldmines or Minefields? Private Libraries and Their Documentation (1665-1830)’</a>, in: R. Jagersma, H. Blom, E. Chayes and A. Hansen (eds.). <i>Private libraries and their documentation, 1665-1830. Studying and interpreting sources</i>, Leiden, Brill, 2023.
 	</p>
 	
 	<h2>2022</h2>
