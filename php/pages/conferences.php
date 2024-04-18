@@ -192,6 +192,18 @@
 	<p>MEDIATE team members have presented the project at the following conferences:
 		<ul class="list-unstyled">
 			<li>
+				<b>July 2022:</b> Launch of the MEDIATE database, Annual conference of the Society for the History of Authorship, Reading and Publishing (SHARP), University of Amsterdam.
+			</li>
+			<li>
+				<b>December 2021:</b> From Aesop to La Fontaine and beyond: Word, Image and Education, University of Leiden.
+			</li>
+			<li>
+				<b>November 2021:</b> <a href="https://acsem.uva.nl/">Amsterdam Centre for Studies in Early Modernity</a> lecture series, University of Amsterdam.
+			</li>
+			<li>
+				<b>June 2021:</b> USTC conferences <i><a href="https://risweb.st-andrews.ac.uk/ws/portalfiles/portal/274789286/USTC21_Final_Programme.pdf">Gender and the Book Trades</a></i>, University of St Andrews.
+			</li>
+			<li>
 				<b>February 2020:</b>
 				<a href="https://www.universiteitleiden.nl/en/events/2020/02/afscheidssymposium-paul-smith-figurations-animalieres-febr.-2020">Figurations animalières à travers les textes et l’image en Europe (XIVe – XIXe siècles) symposium</a>, Leiden University.
 			</li>
