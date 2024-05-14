@@ -42,10 +42,11 @@
 			<img class="visible-sm visible-md visible-lg" src="img/team/helwi.jpg" />
 			<div>
 				<a name="helwi"></a>	
-				<h2>Dr. Helwi Blom</h2>
-				<p>Helwi Blom is a postdoctoral researcher focusing on French private library catalogues and provincial book culture. She earned her PhD in French Studies from Utrecht University. Her thesis <i>'Vieux Romans' et 'Grand Si&egrave;cle'; 
-					&eacute;ditions et r&eacute;ceptions de la litt&eacute;rature chevaleresque m&eacute;di&eacute;vale dans la France du dix-septi&egrave;me si&egrave;cle</i> focuses on questions regarding the production, 
-					distribution and consumption of books in early modern France. Helwi is also a participant in the <a href="http://edpop.wp.hum.uu.nl/" target="_blank">EDPOP</a> (The European Dimensions of Popular print) project.
+				<h2>Helwi Blom, MA</h2>
+				<p>
+					 Helwi Blom (PhD Utrecht University) is a literary historian whose research focuses on early modern France. Her scholarly interests include chivalric romance, popular print (the <i>Bibliothèque bleue</i>), library history, the Huguenot diaspora, and reception studies. 
+
+She is currently Lecturer in French at Radboud University, Nijmegen, where she also conducts postdoctoral research on private libraries confiscated during the French Revolution (<a href="https://www.ru.nl/en/research/research-projects/civic-fictions"><i>Civic Fictions</i> project</a>). She is also involved in the <a href="https://ciham.cnrs.fr/imaginarm/">IMAGINARM project</a> at the Université Lumière Lyon 2. Her research for the MEDIATE project focused on catalogues of private book collections published in France between ca. 1600 and 1830. Recent publications include articles and co-edited volumes on early modern French catalogues, French sixteenth-century printer Claude Nourry (Droz 2024), and on <i>Top Ten Fictional Narratives in Early Modern Europe</i> (De Gruyter 2023). 
 				</p>
 				<p>Email: <a href="mailto:helwi.blom@ru.nl">helwi.blom@ru.nl</a></p>
 			</div>
@@ -61,6 +62,20 @@
 				<p>
 					Evelien Chayes (PhD University of Amsterdam) has authored and co-edited books and published articles on early modern networks in the Veneto, intellectual exchanges in the Venetian ghetto, private libraries and the circulation of (censored) books between France, Italy and Cyprus. At the CNRS Institut de Recherche et d'Histoire des Textes in Paris she worked on the reconstruction of Michel de Montaigne's network in the Parliament of Bordeaux. She is an editorial board member of the <i>Mediterranean Nexus 1100-1700</i> book series, published by Brepols. As a postdoctoral researcher in the ERC project she focuses on Italian private libraries. 
 				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<img class="visible-sm visible-md visible-lg" src="img/team/hansen.jpg" />
+			<div>
+				<a name="amhansen"></a>			
+				<h2>Dr. Ann-Marie Hansen</h2>
+				<p>
+					 Ann-Marie Hansen participated in the MEDIATE project as an associated Radboud Excellence Postdoctoral Fellow (2020-21). She holds a PhD from McGill University and specialises in reader interactions with early European print, notably through composite volumes (Sammelbände). She has since gone on to serve as project manager of ‘Unlocking the Fagel Collection’, working with a Dutch eighteenth-century heritage library at Trinity College Dublin.
+				</p>
+				<p>Email: <a href="mailto:anhansen@tcd.ie">anhansen@tcd.ie</a></p>
 			</div>
 		</div>
 	</div>
@@ -132,6 +147,34 @@
 				<h2>Dr. Jason Ensor</h2>
 				<p>Jason Ensor (Western Sydney University) is an external advisor on the technical development and database construction for MEDIATE. At Western Sydney, he was Chief Investigator with Professor Simon Burrows on the '<a href="http://fbtee.uws.edu.au/mpce/">Mapping Print, Charting Enlightenment</a>' Australian Research Council Discovery Project. He publishes in the field of Australian Book History and on matters related to research impact and rethinking scholarship in the digital age. In 2015 he was Conference Director for 'Global Digital Humanities' and in 2018 he convened the SHARP congress in Sydney, Australia.</p>
 				<p>Email: <a href="mailto:J.Ensor@westernsysdney.edu.au">J.Ensor@westernsydney.edu.au</a></p>
+			</div>
+		</div>
+	</div>
+	
+	<h2>Student assistants</h2>
+	
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<img class="visible-sm visible-md visible-lg" src="img/team/hoeben.jpg" />
+			<div>
+				<a name="hoeben"></a>		
+				<h2>Laurie Hoeben, MA</h2>
+				<p>
+					Laurie participated in the MEDIATE project as project assistant and helped with the collection and cleaning of the data. She is currently a PhD candidate at the University of Zurich. As part of the project Re-mediating the Early Book: Pasts and Futures (Marie Skłodowska-Curie Doctoral Network) Laurie aims to clarify why certain French medieval texts (and not others) were selected for print and what changes were made in the transition from manuscript to print.
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<img class="visible-sm visible-md visible-lg" src="img/team/licata.jpg" />
+			<div>
+				<a name="licata"></a>		
+				<h2>Francesca Licata, MA</h2>
+				<p>
+					Francesca Licata participated in the MEDIATE project during her Research Master in Literary Studies at Radboud University. She contributed to the project by sourcing lists of books from private libraries discovered through her field research in the municipal archives of Taranto, a southern Italian city. There, she consulted, collected and transcribed notarial documents from the second half of the eighteenth century.
+				</p>
 			</div>
 		</div>
 	</div>

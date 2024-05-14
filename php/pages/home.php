@@ -31,7 +31,7 @@
 	</p>
 </div>
 <div class="col-xs-4">
-	<h3>Video's</h3>
+	<h3>Videos</h3>
 	<hr/>
 	<p style="text-align: start">
 		<strong>Ammodo award 2017, interview with project PI Alicia C. Montoya</strong>
