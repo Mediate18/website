@@ -3,7 +3,7 @@
 		<p>Principal Investigator:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prof. dr. Alicia C. Montoya, <a href="mailto:a.montoya@let.ru.nl" class="emailaddress" target="_blank">a.montoya@let.ru.nl</a></p>
 		<p>Project partners:</p>
 		<ul class="list-inline">
-			<li><a href="http://www.ru.nl/" target="_blank"><img class="partner-logo2" src="img/ru_lg.jpg" /></a></li>
+			<li style="background: white; padding: 5px"><a href="http://www.ru.nl/" target="_blank"><img class="partner-logo2" src="img/ru-logo.svg" /></a></li>
 			<li><a href="http://www.westernsydney.edu.au/dhrg" target="_blank"><img class="partner-logo2" src="img/wsu-main.png" /></a></li>
 			<li><a href="https://www.kb.nl/organisatie/onderzoek-expertise/informatie-infrastructuur-diensten-voor-bibliotheken/short-title-catalogue-netherlands-stcn"><img class="partner-logo2" src="img/stcnlogo.jpg" /></a></li>
 			<li><a href="http://www.cerl.org/" target="_blank"><img class="partner-logo2" src="img/cerl.jpg" /></a></li>
