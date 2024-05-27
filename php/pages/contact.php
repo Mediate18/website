@@ -42,7 +42,7 @@
 			<img class="visible-sm visible-md visible-lg" src="img/team/helwi.jpg" />
 			<div>
 				<a name="helwi"></a>	
-				<h2>Helwi Blom, MA</h2>
+				<h2>Dr. Helwi Blom</h2>
 				<p>
 					 Helwi Blom (PhD Utrecht University) is a literary historian whose research focuses on early modern France. Her scholarly interests include chivalric romance, popular print (the <i>Bibliothèque bleue</i>), library history, the Huguenot diaspora, and reception studies. 
 
