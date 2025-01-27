@@ -82,11 +82,12 @@ She is currently Lecturer in French at Radboud University, Nijmegen, where she a
 
 	<div class="panel panel-default">
 		<div class="panel-body">
-			<img class="visible-sm visible-md visible-lg" src="img/team/rindert.jpg" />
+			<img class="visible-sm visible-md visible-lg" src="img/team/RJ.png" />
 			<div>
 				<a name="rindert"></a>			
 				<h2>Dr. Rindert Jagersma</h2>
-				<p>Rindert Jagersma (PhD, University of Amsterdam) is a book historian and cataloguer, specialised in the (quantitative approach of the) book trade of Dutch Republic around 1700. In the MEDIATE project, he focuses on Dutch auction catalogues and their owners. His publications concern book ownership and private book collections in the long eighteenth century; the life and works of the Dutch pamphleteer Ericus Walten (1662-1697) and the importance of pamphleteers and booksellers in the dissemination of the radical Enlightenment; and the identification of the hitherto unknown printers of the works of Benedictus de Spinoza (1632-1677).</p>
+				<p> Rindert Jagersma (PhD, University of Amsterdam) is a book historian and cataloguer, specialised in the (quantitative approach of the) book trade of Dutch Republic. Currently, in the NWO project <a href="https://www.ru.nl/en/research/research-projects/civic-fictions">Civic fictions: Modelling book-reader interactions in the Age of Revolution, c. 1760-1830</a> he studies the accounts books of the private customers of the Leiden-based booksellers firm Luchtmans (1683-1848). In the MEDIATE project, he focused on Dutch auction catalogues and their owners. His publications focus on book ownership and private book collections in the long eighteenth century; the life and works of the Dutch pamphleteer Ericus Walten (1662-1697) and the importance of pamphlets and booksellers in the dissemination of the radical Enlightenment; and the identification of the hitherto unknown printers of the works of Benedictus de Spinoza (1632-1677). Recent publications include the co-edited volume <a href="https://brill.com/edcollbook-oa/title/64633">Private Libraries and Their Documentation, 1665–1830</a> (Brill, 2023).</p>
+				<p>Email: <a href="rindert.jagersma@ru.nl ">rindert.jagersma@ru.nl</a></p>
 			</div>
 		</div>
 	</div>
@@ -107,8 +108,10 @@ She is currently Lecturer in French at Radboud University, Nijmegen, where she a
 			<img class="visible-sm visible-md visible-lg" src="img/team/anna.jpg" />
 			<div>
 				<a name="anna"></a>			
-				<h2>Anna E. de Wilde, MA</h2>
-				<p>Anna de Wilde participates in the MEDIATE project as a PhD student, focusing on Hebrew and Jewish books in Dutch auction catalogues. She studied History and Jewish Studies at the University of Amsterdam and the Hebrew University of Jerusalem. She specialized in the book culture of the Sephardic community in early modern Amsterdam. Before joining the MEDIATE team Anna worked as a researcher at Ets Haim - Livraria Montezinos, the world's oldest functioning Jewish library.</p>
+				<h2>Dr. Anna E. de Wilde</h2>
+				<p>Anna de Wilde participated in the MEDIATE project as a PhD student, focusing on Hebrew and Jewish books in Dutch auction catalogues. In 2024, she defended her PhD dissertation <i>Jewish Books at Auction. The circulation of Knowledge as Reflected in the Catalogues of Jewish Private Libraries in the Dutch Republic (1637 – 1832)</i>. Before joining the MEDIATE team, she studied History and Jewish Studies at the University of Amsterdam and the Hebrew University of Jerusalem, and worked as a researcher at Ets Haim - Livraria Montezinos, the world's oldest functioning Jewish library. Anna currently works as a conservator at the Bibliotheca Rosenthaliana at the University of Amsterdam.</p>
+				<p>Email: <a href="mailto:a.e.dewilde@uva.nl">a.e.dewilde@uva.nl</a>
+				</p>
 			</div>
 		</div>
 	</div>

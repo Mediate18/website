@@ -6,6 +6,11 @@
 </div>
 <div class="col-xs-12 page-content">
 	<h1 class="visible-xs">Publications</h1>
+	
+	<h2>2025</h2>
+	<p>
+		J.C. Rozendaal, 'The Bookseller and the Lady: The Literary Ambitions of Anna de Sterke (1755–1831) and Her Dealings with Bookseller Luchtmans', in E. Watson and J. Farrell-Jobst, <i>Gender and The Book Trades</i>, Leiden, Brill, 199 - 214.
+	</p>
 
 	<h2>2024</h2>
 	<p>
@@ -16,6 +21,9 @@
 	</p>
 	<p>
 		A.C. Montoya, <a href="https://link.springer.com/chapter/10.1007/978-3-031-46939-8_12">“Women’s Libraries and ‘Women’s Books’, 1729–1830”</a>, in M. Bolufer, L. Guinot-Ferri and C. Blutrach (eds.), <i>Gender and Cultural Mediation in the Long Eighteenth Century</i>, Cham, Palgrave Macmillan, 2024, 289 – 314.
+	</p>
+	<p>
+		A.C. Montoya, <a href=" https://www.aup-online.com/content/journals/10.5117/IN2024.1.002.MONT">‘“Eene zeer Aanzienlijke verzameling Boeken”. Literaire relaties in Nederlandse, Franse en Britse veilingcatalogi van privébibliotheken 1790 – 1830’</a>, Internationale Neerlandistiek 62.1 (2024) 9 – 30. 
 	</p>
 
 	
@@ -71,6 +79,9 @@
 	</p>
 	<p>
 		A.C. Montoya, “La dispersion du livre aquitain en Europe: Lecteurs et bibliothèques privées (1665 – 1830)”, <i>Revue française d’histoire du livre</i> 142 (2021), 79 – 104.
+	</p>
+	<p>
+		A.C. Montoya, <a href="docs/Shark_in_library_PDF.pdf">‘The Shark in the Library: Books and Non-Book Artifacts in Private Library Auction Catalogues, 1665 – 1830’</a>, in Alisa van de Haar and Annelies Schulte Nordholt (eds.), <i>Figurations animalières à travers le texte et l’image en Europe. Du Moyen Age à nos jours. Textes en hommage à Paul J. Smith</i>, Leiden, Brill, 2021, 249 – 265.
 	</p>
 	
 	<h2>2020</h2>
